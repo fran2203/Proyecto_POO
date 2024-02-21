@@ -1,0 +1,23 @@
+Generar: 5 ufo (alea)
+Esperar: hasta que mueran todos
+
+Bucle 5 {
+Esperar: 1
+Generar: 5 meteorito (alea) (recto)
+}
+
+Esperar: hasta que mueran todos
+
+Generar: 1 nave_roja (geo)
+
+Bucle 4 {
+Esperar: 1
+Generar: 3 ufo (alea)
+Esperar: 4
+Generar: 2 meteorito (alea) (apuntar nave)
+Generar: 2 meteorito (alea) (recto)
+}
+
+Esperar: hasta que mueran todos
+
+-Fin-

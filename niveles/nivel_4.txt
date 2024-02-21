@@ -1,0 +1,22 @@
+Bucle i {
+Generar: 5 meteorito (geo)
+
+Esperar: 2
+
+Generar: 5 ufo (geo)
+Esperar: 1
+
+Generar: 1 nave_roja
+Esperar: 4.28
+Generar: 1 nave_roja
+Esperar: 2
+Generar: 5 ufo (alea)
+Esperar: 1
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 1
+Generar: 5 meteorito (geo) (recto)
+Esperar: hasta que mueran todos
+
+}
+
+-Fin-

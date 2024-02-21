@@ -1,0 +1,8 @@
+volume: 0
+Controls: 1
+Resolution: 0
+Music: 1
+Sound effecs: 1
+Low detail mode: 0
+White mode: 0
+show fps: 0

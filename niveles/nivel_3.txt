@@ -1,0 +1,32 @@
+Bucle 3 {
+Generar: 9 meteorito (alea) (recto)
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 1
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 1
+}
+
+Bucle 5 {
+Generar: 6 ufo (geo)
+Esperar: 1
+Generar: 6 meteorito (alea) (recto)
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 1
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 2
+}
+
+Generar: 1 nave_roja (geo)
+Esperar: 4.28
+Generar: 1 nave_roja (geo)
+
+Bucle 3 {
+Generar: 6 ufo (geo)
+Esperar: 1
+Generar: 1 meteorito (alea) (apuntar nave)
+Esperar: 1
+}
+
+Esperar: hasta que mueran todos
+
+-Fin-
